@@ -28,7 +28,7 @@
           <template #trigger>
             <n-button ghost type="tertiary">
               <template v-slot:icon>
-                <n-icon :size="20"><brand-github /></n-icon>
+                <n-icon :size="20"><adjustments-alt /></n-icon>
               </template>
             </n-button>
           </template>
@@ -80,7 +80,7 @@
 
 <script>
 /* eslint-disable vue/no-unused-components */
-import { BrandGithub } from "@vicons/tabler";
+import { AdjustmentsAlt } from "@vicons/tabler";
 import {
   NTabs,
   NTab,
@@ -104,7 +104,7 @@ export default {
     // eslint-disable-next-line vue/no-unused-components
     NGradientText,
     NIcon,
-    BrandGithub,
+    AdjustmentsAlt,
     NButton,
     NTooltip,
     NSwitch,
