@@ -16,6 +16,7 @@ export default {
   data: () => ({
     publicPath: process.env.BASE_URL,
   }),
+  mounted: function () {},
 };
 </script>
 

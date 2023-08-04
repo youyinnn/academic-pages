@@ -14,4 +14,5 @@ for (let rs of resourceList) {
 
 const vue = createApp(App);
 console.log("Vue on: " + vue.version);
+console.log(process.env);
 vue.use(router).use(store).mount("#app");
