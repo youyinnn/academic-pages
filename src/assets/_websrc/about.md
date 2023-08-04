@@ -1,3 +1,5 @@
+## Jun Huang
+
 ### Research Focus
 
 - Explainable AI
@@ -23,4 +25,14 @@
 - [J. Huang, Z. Wang, D. Li and Y. Liu, "The Analysis and Development of an XAI Process on Feature Contribution Explanation," 2022 IEEE International Conference on Big Data (Big Data), Osaka, Japan, 2022, pp. 5039-5048, doi: 10.1109/BigData55660.2022.10020313.](https://ieeexplore.ieee.org/document/10020313)
 - [D. Li, Y. Liu, J. Huang and Z. Wang, "A Trustworthy View on Explainable Artificial Intelligence Method Evaluation," in Computer, vol. 56, no. 4, pp. 50-60, April 2023, doi: 10.1109/MC.2022.3233806.](https://ieeexplore.ieee.org/document/10098190)
 
-<p style="text-align: right;" class="unselectable undragable"><img src="../../../public/img/concordia-logo2.png" style="width: 180px;margin-top:3rem;" preview-disabled></p>
+### Academic Service
+
+#### Teaching Assistant
+
+- Summer, 2022, COEN244, Programming Methodology II
+- Fall, 2022, COEN352, Data Structure and Algorithm
+- Winter, 2023, COEN448, Software Testing
+- Winter, 2023, COEN6731, Distributed Software System
+- Summer, 2023, COEN448, Software Testing
+
+<p style="text-align: right;" class="unselectable undragable"><img src="../../../public/img/concordia-logo2.png" style="width: 200px;margin-top:3rem;" preview-disabled></p>
