@@ -38,6 +38,11 @@ module.exports = {
       }
       return args;
     });
+
+    config.plugin("html").tap((args) => {
+      args[0].title = "Jun Huang";
+      return args;
+    });
   },
 
   configureWebpack: (config) => {
