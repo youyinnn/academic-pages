@@ -11,6 +11,10 @@ code {
   --animate-duration: 1s;
   word-wrap: break-word;
   word-break: normal;
+  background: url(../../../public/img/concordia-logo3.png);
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-size: 300px;
 }
 
 .katexp {

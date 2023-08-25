@@ -27,6 +27,10 @@
 
 - [E. Neghawi, Z. Wang, J. Huang and Y. Liu, "Linking Team-level and Organization-level Governance in Machine Learning Operations through Explainable AI and Responsible AI Connector," 2023 IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC), Torino, Italy, 2023, pp. 1223-1230, doi: 10.1109/COMPSAC57700.2023.00185.](https://ieeexplore.ieee.org/document/10197114)
 
+### Public Talk
+
+- [Conference: 2022 IEEE International Conference on Big Data (Big Data): The Analysis and Development of an XAI Process on Feature Contribution Explanation](https://www.youtube.com/watch?v=j8I9Neksq9E)
+
 ### Academic Service
 
 #### Teaching Assistant
@@ -36,5 +40,3 @@
 - Winter, 2023, COEN448, Software Testing
 - Winter, 2023, COEN6731, Distributed Software System
 - Summer, 2023, COEN448, Software Testing
-
-<p style="text-align: right;" class="unselectable undragable"><img src="../../../public/img/concordia-logo2.png" style="width: 200px;margin-top:3rem;" preview-disabled></p>
