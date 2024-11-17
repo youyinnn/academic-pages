@@ -13,8 +13,10 @@ code {
   word-break: normal;
   background: url(../../../public/img/concordia-logo3.png);
   background-repeat: no-repeat;
-  background-position: right top;
+  background-position: right 3em top 2em;
   background-size: 300px;
+  box-shadow: var(--box-shadow-2);
+  padding: 1em 4em 5em;
 }
 
 .katexp {
