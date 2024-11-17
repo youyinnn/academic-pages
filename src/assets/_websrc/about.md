@@ -2,7 +2,7 @@
 
 ### Research Focus
 
-- Explainable AI
+- Explainable AI (XAI)
 
 - XAI for Computer Vision
 
@@ -24,7 +24,6 @@
 
 - [J. Huang, Z. Wang, D. Li and Y. Liu, "The Analysis and Development of an XAI Process on Feature Contribution Explanation," 2022 IEEE International Conference on Big Data (Big Data), Osaka, Japan, 2022, pp. 5039-5048, doi: 10.1109/BigData55660.2022.10020313.](https://ieeexplore.ieee.org/document/10020313)
 - [D. Li, Y. Liu, J. Huang and Z. Wang, "A Trustworthy View on Explainable Artificial Intelligence Method Evaluation," in Computer, vol. 56, no. 4, pp. 50-60, April 2023, doi: 10.1109/MC.2022.3233806.](https://ieeexplore.ieee.org/document/10098190)
-
 - [E. Neghawi, Z. Wang, J. Huang and Y. Liu, "Linking Team-level and Organization-level Governance in Machine Learning Operations through Explainable AI and Responsible AI Connector," 2023 IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC), Torino, Italy, 2023, pp. 1223-1230, doi: 10.1109/COMPSAC57700.2023.00185.](https://ieeexplore.ieee.org/document/10197114)
 
 ### Public Talk

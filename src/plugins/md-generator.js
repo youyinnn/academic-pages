@@ -7,7 +7,6 @@ const { exit } = require("process");
 const marked = require("../../node_modules/marked");
 const { crc32 } = require("../../node_modules/crc");
 const dayjs = require("../../node_modules/dayjs");
-const { EmojiConvertor } = require("../../node_modules/emoji-js");
 const katex = require("../../node_modules/katex");
 const htmlparser2 = require("../../node_modules/htmlparser2");
 
@@ -41,15 +40,6 @@ marked.setOptions({
 
 // Override function
 renderer.html = renderer.text = function (text) {
-  // convert emoji
-  let emojis = text.match(/:[A-z]+[-|_]?[A-z|0-9]+:/gm);
-  if (emojis !== null) {
-    emojis.forEach((ej) => {
-      let splitors = text.split(ej);
-      text = splitors.join(emoji.replace_colons(ej));
-    });
-  }
-
   // render {% cq %} {% endcq %}
   text = text.replace(
     /\{% *cq *%\}/gm,
@@ -194,12 +184,6 @@ let postsrs = fs.readdirSync(postsPath);
 let articlesMetadata = new Array();
 let allSeries = new Array();
 let articlesOrder = new Array();
-
-var emoji;
-emoji = new EmojiConvertor();
-emoji.init_env();
-emoji.replace_mode = "unified";
-emoji.allow_native = true;
 
 // iterating md files
 for (let pname of postsrs) {
