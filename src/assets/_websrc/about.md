@@ -14,7 +14,7 @@
 
 ### 2. Education
 
-> 2023 (Summer) - Now, ECE, Ph.D.: '', '', ''.
+> 2023 (Summer) - Now, ECE, Ph.D. Candidate: '', '', ''.
 >
 > 2022 (Winter) - 2023 (Winter), ECE, MASc.: [Concordia University](https://www.concordia.ca/), supervised by Dr. [Yan Liu](https://www.concordia.ca/faculty/yan-liu.html).
 >
@@ -70,6 +70,8 @@ Teaching Assistant:
 Member and Technical Leader of Java EE Group:
 
 - Sep. 2016 – Feb. 2019:
-
-  Lead the technical and made progress together with team members  Hold the recruitment and assessment of new staff  Seek cooperation with other teams on competitions and projects  Participate in software and computer science competitions
+  - Lead the technical and made progress together with team members;
+  - Hold the recruitment and assessment of new staff;
+  - Seek cooperation with other teams on competitions and projects;
+  - Participate in software and computer science competitions;
 
