@@ -21,7 +21,7 @@ module.exports = {
   publicPath:
     process.env.NODE_ENV === "production"
       ? "/~hu_ju/dist/"
-      : "/academic-pages/dist/",
+      : "/academic-pages/",
   // make the index.html file place at the root of the repo
   indexPath: "../index.html",
   runtimeCompiler: true,
