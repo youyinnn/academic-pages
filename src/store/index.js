@@ -20,8 +20,8 @@ export default createStore({
     currentThemeConfig:
       initialCurrentThemeConfig === null
         ? {
-            darkTheme: true,
-            codeTheme: "github-dark-dimmed",
+            darkTheme: false,
+            codeTheme: "atom-one-light",
           }
         : JSON.parse(initialCurrentThemeConfig),
   },

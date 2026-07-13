@@ -16,11 +16,11 @@ function setBodyCss() {
       bottom: 0 !important;
       left: 0 !important;
       right: 0 !important;
-      background-color: rgb(24, 24, 28) !important;
+      background-color: white !important;
     }
     `;
   if (initialCurrentThemeConfig !== null) {
-    if (!currentThemeConfig.darkTheme) {
+    if (currentThemeConfig.darkTheme) {
       preLoadingBodyCssElement.innerHTML = `
         body {
           transition: none !important;
@@ -30,7 +30,7 @@ function setBodyCss() {
           bottom: 0 !important;
           left: 0 !important;
           right: 0 !important;
-          background-color: white !important;
+          background-color: rgb(24, 24, 28) !important;
         }
       `;
     }
