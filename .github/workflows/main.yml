@@ -18,6 +18,7 @@ jobs:
         run: |
           corepack enable
           corepack prepare yarn@stable --activate
+          mkdir -p src/assets/_posts
           yarn install
           yarn build
 
