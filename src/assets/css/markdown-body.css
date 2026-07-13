@@ -14,9 +14,10 @@ code {
   background: url(../../../public/img/concordia-logo3.png);
   background-repeat: no-repeat;
   background-position: right 3em top 2em;
-  background-size: 300px;
+  background-size: 400px;
   box-shadow: var(--box-shadow-2);
   padding: 1em 4em 5em;
+  font-size: var(--general-font-size);
 }
 
 .katexp {
@@ -141,7 +142,7 @@ td.hljs-ln-code {
 .editormd-preview-container blockquote {
   padding-left: initial !important;
   padding: 10px 20px !important;
-  font-size: 13px !important;
+  font-size: var(--general-font-size) !important;
   border-left: 2px var(--success-color) solid !important;
   background-color: var(--table-header-color);
   margin: 1rem 0;

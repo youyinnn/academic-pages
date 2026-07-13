@@ -2,13 +2,8 @@
 
 ### 1. Research Focus
 
-- Explainable AI (XAI)
-
-- XAI for Computer Vision
-
-- [Study: Interpretable Machine Learning](https://github.com/youyinnn/masc_research_knowledge_base/issues/11)
-
-- [Knowledge gathering: XAI](https://github.com/youyinnn/masc_research_knowledge_base/issues/7)
+- **Explainable AI: Methods and Trustworthy Evaluation** for Large-Scale Machine Learning and Operations (MLOps) Workflow
+- **AI Governance of Machine Learning and Explainability Operations (MLXOps): Data Provenance and Sustainable Operations**
 
 ### 2. Education
 
