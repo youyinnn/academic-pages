@@ -19,13 +19,13 @@ eval("function setBodyCss() {\n  const initialCurrentThemeConfig = localStorage.
 
 /***/ }),
 
-/***/ "./src/assets/resources/cache-5owraf.js":
-/*!**********************************************!*\
-  !*** ./src/assets/resources/cache-5owraf.js ***!
-  \**********************************************/
+/***/ "./src/assets/resources/cache-1go55xl.js":
+/*!***********************************************!*\
+  !*** ./src/assets/resources/cache-1go55xl.js ***!
+  \***********************************************/
 /***/ (() => {
 
-eval("console.log('Loading cache: cache-5owraf.js');\nsessionStorage.setItem('postSeries', \"[]\");\nsessionStorage.setItem('postMetadata', \"[]\");\nsessionStorage.setItem('postOrder', \"[]\");\nsessionStorage.setItem('scriptsMds', \"{}\");\n\n//# sourceURL=webpack://academic-pages/./src/assets/resources/cache-5owraf.js?");
+eval("console.log('Loading cache: cache-1go55xl.js');\nsessionStorage.setItem('postSeries', \"[]\");\nsessionStorage.setItem('postMetadata', \"[]\");\nsessionStorage.setItem('postOrder', \"[]\");\nsessionStorage.setItem('scriptsMds', \"{}\");\n\n//# sourceURL=webpack://academic-pages/./src/assets/resources/cache-1go55xl.js?");
 
 /***/ }),
 
@@ -45,7 +45,7 @@ eval("sessionStorage.setItem('codeThemeCss', \"[\\\"a11y-dark\\\",\\\"a11y-light
   \*******************************************/
 /***/ ((module) => {
 
-eval("/* eslint-disable no-unused-vars */\nvar resourcesList = [\"cache-5owraf.js\", \"code-theme-css-ef37e5d9.js\"];\nmodule.exports.list = resourcesList;\n\n//# sourceURL=webpack://academic-pages/./src/assets/resources/resources.js?");
+eval("/* eslint-disable no-unused-vars */\nvar resourcesList = [\"cache-1go55xl.js\", \"code-theme-css-ef37e5d9.js\"];\nmodule.exports.list = resourcesList;\n\n//# sourceURL=webpack://academic-pages/./src/assets/resources/resources.js?");
 
 /***/ }),
 
@@ -56,7 +56,7 @@ eval("/* eslint-disable no-unused-vars */\nvar resourcesList = [\"cache-5owraf.j
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ \"./node_modules/vue/dist/vue.esm-bundler.js\");\n/* harmony import */ var _App_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./App.vue */ \"./src/App.vue\");\n/* harmony import */ var _router__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./router */ \"./src/router/index.js\");\n/* harmony import */ var _store__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./store */ \"./src/store/index.js\");\n/* harmony import */ var _assets_css_index_less__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./assets/css/index.less */ \"./src/assets/css/index.less\");\n/* harmony import */ var _assets_css_index_less__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_assets_css_index_less__WEBPACK_IMPORTED_MODULE_4__);\n/* harmony import */ var animate_css__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! animate.css */ \"./node_modules/animate.css/animate.css\");\n/* harmony import */ var animate_css__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(animate_css__WEBPACK_IMPORTED_MODULE_5__);\n/* harmony import */ var _assets_resources_resources_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @/assets/resources/resources.js */ \"./src/assets/resources/resources.js\");\n\n\n\n\n\n\n\nconst resourceList = _assets_resources_resources_js__WEBPACK_IMPORTED_MODULE_6__.list;\nfor (let rs of resourceList) {\n  __webpack_require__(\"./src/assets/resources sync recursive ^\\\\.\\\\/.*$\")(`./${rs}`);\n}\nconst vue = (0,vue__WEBPACK_IMPORTED_MODULE_0__.createApp)(_App_vue__WEBPACK_IMPORTED_MODULE_1__[\"default\"]);\nconsole.log(\"Vue on: \" + vue.version);\nconsole.log(({\"NODE_ENV\":\"dev\",\"VUE_APP_VALUE\":\"\",\"BASE_URL\":\"/academic-pages/dist/\"}));\nvue.use(_router__WEBPACK_IMPORTED_MODULE_2__[\"default\"]).use(_store__WEBPACK_IMPORTED_MODULE_3__[\"default\"]).mount(\"#app\");\n\n//# sourceURL=webpack://academic-pages/./src/main.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ \"./node_modules/vue/dist/vue.esm-bundler.js\");\n/* harmony import */ var _App_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./App.vue */ \"./src/App.vue\");\n/* harmony import */ var _router__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./router */ \"./src/router/index.js\");\n/* harmony import */ var _store__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./store */ \"./src/store/index.js\");\n/* harmony import */ var _assets_css_index_less__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./assets/css/index.less */ \"./src/assets/css/index.less\");\n/* harmony import */ var _assets_css_index_less__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_assets_css_index_less__WEBPACK_IMPORTED_MODULE_4__);\n/* harmony import */ var animate_css__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! animate.css */ \"./node_modules/animate.css/animate.css\");\n/* harmony import */ var animate_css__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(animate_css__WEBPACK_IMPORTED_MODULE_5__);\n/* harmony import */ var _assets_resources_resources_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @/assets/resources/resources.js */ \"./src/assets/resources/resources.js\");\n\n\n\n\n\n\n\nconst resourceList = _assets_resources_resources_js__WEBPACK_IMPORTED_MODULE_6__.list;\nfor (let rs of resourceList) {\n  __webpack_require__(\"./src/assets/resources sync recursive ^\\\\.\\\\/.*$\")(`./${rs}`);\n}\nconst vue = (0,vue__WEBPACK_IMPORTED_MODULE_0__.createApp)(_App_vue__WEBPACK_IMPORTED_MODULE_1__[\"default\"]);\nconsole.log(\"Vue on: \" + vue.version);\nconsole.log(({\"NODE_ENV\":\"development\",\"VUE_APP_VALUE\":\"\",\"BASE_URL\":\"/academic-pages/dist/\"}));\nvue.use(_router__WEBPACK_IMPORTED_MODULE_2__[\"default\"]).use(_store__WEBPACK_IMPORTED_MODULE_3__[\"default\"]).mount(\"#app\");\n\n//# sourceURL=webpack://academic-pages/./src/main.js?");
 
 /***/ }),
 
@@ -628,7 +628,7 @@ eval("// style-loader: Adds some css to the DOM by adding a <style> tag\n\n// lo
   \*********************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("var map = {\n\t\"./cache-5owraf\": \"./src/assets/resources/cache-5owraf.js\",\n\t\"./cache-5owraf.js\": \"./src/assets/resources/cache-5owraf.js\",\n\t\"./code-theme-css-ef37e5d9\": \"./src/assets/resources/code-theme-css-ef37e5d9.js\",\n\t\"./code-theme-css-ef37e5d9.js\": \"./src/assets/resources/code-theme-css-ef37e5d9.js\",\n\t\"./resources\": \"./src/assets/resources/resources.js\",\n\t\"./resources.js\": \"./src/assets/resources/resources.js\"\n};\n\n\nfunction webpackContext(req) {\n\tvar id = webpackContextResolve(req);\n\treturn __webpack_require__(id);\n}\nfunction webpackContextResolve(req) {\n\tif(!__webpack_require__.o(map, req)) {\n\t\tvar e = new Error(\"Cannot find module '\" + req + \"'\");\n\t\te.code = 'MODULE_NOT_FOUND';\n\t\tthrow e;\n\t}\n\treturn map[req];\n}\nwebpackContext.keys = function webpackContextKeys() {\n\treturn Object.keys(map);\n};\nwebpackContext.resolve = webpackContextResolve;\nmodule.exports = webpackContext;\nwebpackContext.id = \"./src/assets/resources sync recursive ^\\\\.\\\\/.*$\";\n\n//# sourceURL=webpack://academic-pages/./src/assets/resources/_sync_^\\.\\/.*$?");
+eval("var map = {\n\t\"./cache-1go55xl\": \"./src/assets/resources/cache-1go55xl.js\",\n\t\"./cache-1go55xl.js\": \"./src/assets/resources/cache-1go55xl.js\",\n\t\"./code-theme-css-ef37e5d9\": \"./src/assets/resources/code-theme-css-ef37e5d9.js\",\n\t\"./code-theme-css-ef37e5d9.js\": \"./src/assets/resources/code-theme-css-ef37e5d9.js\",\n\t\"./resources\": \"./src/assets/resources/resources.js\",\n\t\"./resources.js\": \"./src/assets/resources/resources.js\"\n};\n\n\nfunction webpackContext(req) {\n\tvar id = webpackContextResolve(req);\n\treturn __webpack_require__(id);\n}\nfunction webpackContextResolve(req) {\n\tif(!__webpack_require__.o(map, req)) {\n\t\tvar e = new Error(\"Cannot find module '\" + req + \"'\");\n\t\te.code = 'MODULE_NOT_FOUND';\n\t\tthrow e;\n\t}\n\treturn map[req];\n}\nwebpackContext.keys = function webpackContextKeys() {\n\treturn Object.keys(map);\n};\nwebpackContext.resolve = webpackContextResolve;\nmodule.exports = webpackContext;\nwebpackContext.id = \"./src/assets/resources sync recursive ^\\\\.\\\\/.*$\";\n\n//# sourceURL=webpack://academic-pages/./src/assets/resources/_sync_^\\.\\/.*$?");
 
 /***/ }),
 
