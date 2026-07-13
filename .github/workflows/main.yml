@@ -13,6 +13,8 @@ jobs:
         with:
           node-version: 22
       - name: build
+        env:
+          DEPLOY_TARGET: gh-pages
         run: |
           corepack enable
           corepack prepare yarn@stable --activate

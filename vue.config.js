@@ -19,8 +19,10 @@ process.env.VUE_APP_VALUE = "";
 
 module.exports = {
   publicPath:
-    process.env.NODE_ENV === "production"
+    process.env.DEPLOY_TARGET === "gh-pages"
       ? "/academic-pages/dist/"
+      : process.env.NODE_ENV === "production"
+      ? "/~hu_ju/dist/"
       : "/academic-pages/",
   // make the index.html file place at the root of the repo
   indexPath: "../index.html",
